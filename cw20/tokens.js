@@ -29,7 +29,7 @@ module.exports = {
       symbol: "SOLID",
       name: "Solid",
       token: "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst",
-      icon: "https://assets.capapult.finance/icon/Solid.svg",
+      icon: "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/solid.svg",
       decimals: 6,
     },
     terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar: {
@@ -37,7 +37,7 @@ module.exports = {
       symbol: "CAPA",
       name: "Capapult",
       token: "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
-      icon: "https://assets.capapult.finance/icon/Capa.svg",
+      icon: "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/Capapult.svg",
       decimals: 6,
     },
     terra19p20mfnvwh9yvyr7aus3a6z6g6uk28fv4jhx9kmnc2m7krg27q2qkfenjw: {
